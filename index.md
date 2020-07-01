@@ -6,7 +6,7 @@ Feel free to read my [CV](/docs/MansillSmith_CV.pdf).
 
 ### Experience
 
-I worked as a Student Intern for [Livestock Improvement Corporation (LIC)](https://www.lic.co.nz/) from Novemeber 2019 to February 2020. I worked on their Cow Tracking project.
+I worked as a Student Intern for [Livestock Improvement Corporation (LIC)](https://www.lic.co.nz/ "LIC Homepage") from Novemeber 2019 to February 2020. I worked on their Cow Tracking project.
 
 I have experience with:
 - C#
