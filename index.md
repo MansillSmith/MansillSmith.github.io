@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/MansillSmith/MansillSmith.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am Mansill Smith. Currently I am in my Third Year at the University of Waikato, studying a Bachelor of Engineering (Honours) majoring in Software Engineering.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
