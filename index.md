@@ -18,6 +18,7 @@ I have experience with:
 ### Contact Me
 
 Email : mansill.smith@xtra.co.nz
+
 [LinkedIn](www.linkedin.com/in/MansillSmith)
 
 ```markdown
