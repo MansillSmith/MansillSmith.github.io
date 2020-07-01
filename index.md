@@ -8,7 +8,7 @@ Feel free to read my [CV](/docs/MansillSmith_CV.pdf).
 
 I worked as a Student Intern for [Livestock Improvement Corporation (LIC)](https://www.lic.co.nz/ "LIC Homepage") from Novemeber 2019 to February 2020. I worked on their Cow Tracking project.
 
-I have experience with:⋅⋅
+I have experience with:\n
 - C#
 - Java
 - Python
@@ -17,8 +17,7 @@ I have experience with:⋅⋅
 
 ### Contact Me
 
-Email : mansill.smith@xtra.co.nz⋅⋅
-[LinkedIn](www.linkedin.com/in/MansillSmith)
+Email : mansill.smith@xtra.co.nz\n[LinkedIn](www.linkedin.com/in/MansillSmith)
 
 ```markdown
 Syntax highlighted code block
