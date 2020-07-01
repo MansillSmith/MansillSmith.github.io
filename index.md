@@ -2,7 +2,7 @@
 
 Hello! I am Mansill Smith. Currently I am in my Third Year at the University of Waikato, studying a Bachelor of Engineering (Honours) majoring in Software Engineering.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to read my [CV](MansillSmith_cv.pdf).
 
 ### Markdown
 
