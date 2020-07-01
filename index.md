@@ -15,6 +15,11 @@ I have experience with:
 - SQL
 - HTML and JavaScript
 
+### Contact Me
+
+Email : mansill.smith@xtra.co.nz
+[LinkedIn](www.linkedin.com/in/MansillSmith)
+
 ```markdown
 Syntax highlighted code block
 
