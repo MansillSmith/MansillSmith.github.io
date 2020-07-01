@@ -4,9 +4,16 @@ Hello! I am Mansill Smith. Currently I am in my Third Year at the University of 
 
 Feel free to read my [CV](/docs/MansillSmith_CV.pdf).
 
-### Markdown
+### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I worked as a Student Intern for [Livestock Improvement Corporation (LIC)](https://www.lic.co.nz/) from Novemeber 2019 to February 2020. I worked on their Cow Tracking project.
+
+I have experience with:
+- C#
+- Java
+- Python
+- SQL
+- HTML and JavaScript
 
 ```markdown
 Syntax highlighted code block
