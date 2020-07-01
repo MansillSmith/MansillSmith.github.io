@@ -2,7 +2,7 @@
 
 Hello! I am Mansill Smith. Currently I am in my Third Year at the University of Waikato, studying a Bachelor of Engineering (Honours) majoring in Software Engineering.
 
-Feel free to read my [CV](MansillSmith_cv.pdf).
+Feel free to read my [CV](https://github.com/MansillSmith/MansillSmith.github.io/blob/master/MansillSmith_CV.pdf).
 
 ### Markdown
 
